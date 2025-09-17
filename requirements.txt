@@ -1,0 +1,17 @@
+# Simple Network Mapper Requirements
+# This tool uses only Python standard library modules
+# No additional packages required
+
+# Python 3.6+ is recommended for optimal performance
+# Standard library modules used:
+# - subprocess
+# - threading  
+# - argparse
+# - ipaddress
+# - sys
+# - time
+# - concurrent.futures
+# - platform
+
+# Optional: For enhanced output formatting (not required)
+# colorama>=0.4.4
