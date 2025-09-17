@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-Simple Network Mapper - A quick and easy network sweep tool
-Author: Pentesting Tool
-Description: Performs network discovery using ICMP ping requests
-"""
 
 import subprocess
 import threading
